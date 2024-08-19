@@ -2,9 +2,20 @@
 
 <FLOW VERSION="3.0" CLEANUP="true">
 
+  <COMMENT>test</COMMENT>
+
+
   <!-- nodes -->
 
 <MAP TIMEOUT="" MODE="STANDALONE">
   <COMMENT>test</COMMENT>
+</MAP>
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT>second map</COMMENT>
+</MAP>
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT>third map cuy</COMMENT>
 </MAP>
 </FLOW>
